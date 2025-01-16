@@ -1,7 +1,7 @@
 # scrapinbot
 Python django based microservice that can scrape product urls from sites like ajio
 
-sample urls - https://www.ajio.com/s/boys-tshirts,https://www.ajio.com/men-shirts/c/830216013
+sample urls - https://www.ajio.com/women-kurtas/c/830303011, https://www.ajio.com/s/dhoti-5534-72431
 
 Steps to run the application:
 
